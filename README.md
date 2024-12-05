@@ -1,8 +1,4 @@
-Here’s a detailed `README.md` for your project, summarizing the steps in each Python script and how they interconnect, including information about the pre-trained model. You can modify the parts related to your specific dataset or any other relevant details.
-
----
-
-# Pollution Prediction Model using Multi-Task Learning and Attention Mechanisms
+# Pollution Prediction Model using DSTMA-BLSTM Algorithm
 
 This project aims to predict the concentration levels of various air pollutants based on meteorological and traffic-related features using deep learning models. The workflow consists of three primary Python scripts: **first_part.py**, **second_part.py**, and **three_part.py**.
 
